@@ -7,9 +7,9 @@ Bi-Layer Multimodal Hypergraph Learning is the advanced version of [Multimodal H
 * preprocess*.m: pre-processing codes for data (we were informed that the data was sensitive, so you can refer to the codes to pre-process your data)
 * mPara.mStarExp, mPara.mLamda, mPara.mMu, mPara.mProbSigmaWeight, mPara.Alpha, mPara.mLamda2, and mPara.mMu2 are main hyper-parameters (Please refer to the paper). mPara.mStarExp and mPara.mMu2 are much more important.
 
-## Citing Multi-HGL
+## Citing BiMHGL
 
-If you find Multi-HGL code useful in your research, please consider citing:
+If you find BiMHGL code useful in your research, please consider citing:
 
     @article{ji2018cross,
       title={Cross-modality microblog sentiment prediction via bi-layer multimodal hypergraph learning},
